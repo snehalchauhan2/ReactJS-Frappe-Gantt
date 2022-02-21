@@ -1,0 +1,162 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.kartik{
+  background-color: #EB003F;
+}
+.dashed{
+  border: 0.8px dashed;
+border-color: rgb(235, 231, 225);
+width: 19vh;
+height: 11vh;
+}
+.k1{
+  font-size:small;
+}
+.width{
+  width: 15vh;
+}
+.margin{
+  margin-top: 5vh;
+}
+.margin-t{
+  margin-top: -10vh;
+}
+.margin-l{
+  margin-left: -60vh;
+}
+.in{
+  width: 40vh;
+  height: 4vh;
+  border: 1px solid rgb(226, 225, 225);
+}
+.in1{
+  width: 30vh;
+  height: 4vh;
+  border: 1px solid rgb(226, 225, 225);
+  margin-left: -3vh;
+}
+.drop{
+  width: 40vh;
+}
+.btn1{
+  margin-left: -3vh;
+  border: 1px solid rgb(226, 225, 225);
+  padding:0vh 1.5vh;
+
+}
+.bg-success1{
+  background-color: #1FDD94;
+}
+.bg-info1{
+  background-color: #FF7F24;
+}
+.bg-danger1{
+  background-color: #EB003F;
+}
+.bg-primary1{
+  background-color: #733AEF;
+}
+.bg-warning1{
+  background-color: #544BF9;
+}
+.bg-secondary1{
+  background-color: #767676;
+}
+.txt1{
+  font-size:small;
+}
+.txt2{
+  font-size:x-small;
+}
+
+
+.bar{
+  fill:  #98e6c8 !important;
+}
+.bar-label{
+  fill: transparent!important;
+}
+.popup-wrapper {
+
+  border-radius: 5px!important;
+}
+.grid-row{
+  fill: transparent!important;
+}
+.row-line{
+  stroke: transparent!important;
+}
+.tick {
+  stroke: rgb(165, 165, 165)!important;
+  stroke-width: 0.2;
+  }
+  .gantt-container .popup-wrapper {
+    
+    border-radius: 10px!important; }
+/* .bar-progress2{
+  fill: #EB003F!important;
+} */
+.t1 g rect.bar-progress{
+  fill: darkgreen !important;
+}
+.t1 g rect.bar{
+  fill: #1FDD94 !important;
+}
+
+.t2 g rect.bar-progress{
+  fill: rgb(143, 80, 2) !important;
+}
+.t2 g rect{
+  fill: #FF7F24 !important;
+}
+
+.t3 g rect.bar-progress{
+  fill: rgb(85, 1, 1) !important;
+}
+.t3 g rect{
+  fill: #EB003F !important;
+}
+
+.t4 g rect.bar-progress{
+  fill: rgb(15, 0, 78) !important;
+}
+.t4 g rect{
+  fill: #733AEF !important;
+}
+
+.t5 g rect.bar-progress{
+  fill: rgb(15, 0, 78) !important;
+}
+.t5 g rect{
+  fill: #544BF9 !important;
+}
+
+.t6 g rect.bar-progress{
+  fill: rgb(48, 48, 48) !important;
+}
+.t6 g rect{
+  fill: #767676 !important;
+}
+
+.t7 g rect.bar-progress{
+  fill: rgb(143, 2, 26) !important;
+  
+}
+.t7 g rect{
+  fill: #EB003F !important;
+}
+

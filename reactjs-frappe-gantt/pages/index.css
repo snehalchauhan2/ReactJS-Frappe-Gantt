@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header2{
+    border: 1px solid rgb(25, 0, 255);
+}
+.header2 ul{
+    display: flex;
+    margin-left:600px ;
+}
+.header2 ul li{
+    padding: 5px;
+    list-style: none;
+}
+.header2 ul li button{
+    padding: 5px 40px;
+    background-color: white;
+    border: 1px solid rgb(95, 95, 95);
+    border-radius: 5px;
+}
+.a{
+    padding: 23px 30px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.header3 ul{
+    display: flex;
+    float: right;
+    margin-right: 20px;
+    border: 1px solid rgb(9, 255, 0);
+}
+.b{
+    background-color: black;
+    padding: 8px 10px;
+    border-radius: 5px;
+    color: wheat;
+    border: 0;
+}
+.search input{
+    padding: 5px 40px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.header3{
+    border: 1px solid gold;
+    height: 50px;
+}
+.search{
+    float: left;
+    margin-left: 20px;
+    border: 1px solid rgb(9, 255, 0);
+    height: 50px;
+    margin-right: 350px;
+}
+.header3 ul li{
+    list-style: none;
+    margin-left: -2px;
+}
+.header3 ul li button{
+    padding: 5px 40px;
+    background-color: white;
+    border: 1px solid rgb(95, 95, 95);
+    border-radius: 5px;
+}
+.main{
+    border: 1px solid black;
+    height: 800px;
+}
+.left_side{
+    border: 1px solid cyan;
+    width: 25%;
+    float: left;
+    height: 100%;
+}
+.left_side ul{
+    list-style: none;
+    float: right;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+.left_side ul li{
+   padding-top: 50px;
+   border: 1px solid rgb(255, 0, 13);
+   margin-bottom: 0px;
+}
+.green{
+    padding: 5px;
+    background-color: green;
+    border-radius: 4px;
+    float: left;
+ }
+ .red{
+    padding: 5px;
+    background-color: red;
+    border-radius: 4px;
+    float: left;
+ }
+ .orange{
+    padding: 5px;
+    background-color: orange;
+    border-radius: 4px;
+    float: left;
+ }
+ .purple{
+    padding: 5px;
+    background-color: purple;
+    border-radius: 4px;
+    float: left;
+ }
+ .purple-d{
+    padding: 5px;
+    background-color: rgb(70, 9, 70);
+    border-radius: 4px;
+    float: left;
+ }
+ .gray{
+    padding: 5px;
+    background-color: grey;
+    border-radius: 4px;
+    float: left;
+ }
+ .pink{
+    padding: 5px;
+    background-color: rgb(255, 0, 64);
+    border-radius: 4px;
+    float: left;
+ }
+.right_side{
+    border: 1px solid rgb(255, 0, 13);
+    width: 75%;
+    float: right;
+    height: 100%;
+    margin-top: -5px;
+}
